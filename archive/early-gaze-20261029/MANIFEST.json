@@ -1,0 +1,235 @@
+{
+  "format": "whale-zstd-patch-archive-v1",
+  "source_project": "whale-model-prep",
+  "batch": "early-gaze-20261029",
+  "title": "\u65e9\u671f\u89c6\u7ebf\u5206\u5c42\u5b9e\u9a8c\u5f52\u6863",
+  "base": {
+    "path": "base/gaze-separated-layers-v8-PREVIEW.blend",
+    "original_path": "gaze-layer-study-20261029/gaze-separated-layers-v8-PREVIEW.blend",
+    "bytes": 59117950,
+    "sha256": "efa2d3bdb8b0fbe20c9e05fe13b0c1526c6e3971d5c1553cca2de6d1be1e6c32",
+    "parts": [
+      {
+        "path": "base/gaze-separated-layers-v8-PREVIEW.blend.part-0001-of-0008",
+        "bytes": 8388608,
+        "sha256": "8c4f94ab361884325d181181eda7eca59138e0847ce88e1f87315097aae5c287"
+      },
+      {
+        "path": "base/gaze-separated-layers-v8-PREVIEW.blend.part-0002-of-0008",
+        "bytes": 8388608,
+        "sha256": "3760b31ef9e7af940af55279381d68f94aff99374594f9117fa584a470e5f955"
+      },
+      {
+        "path": "base/gaze-separated-layers-v8-PREVIEW.blend.part-0003-of-0008",
+        "bytes": 8388608,
+        "sha256": "36d67ebc2989f4112aeb586ada8633c42a66b9c666c0bc2137669fa486d9a5d9"
+      },
+      {
+        "path": "base/gaze-separated-layers-v8-PREVIEW.blend.part-0004-of-0008",
+        "bytes": 8388608,
+        "sha256": "7367fe950805e497512bd180b8aca38fa3d3ed3e1293514f162b89dcdf8a386c"
+      },
+      {
+        "path": "base/gaze-separated-layers-v8-PREVIEW.blend.part-0005-of-0008",
+        "bytes": 8388608,
+        "sha256": "9bb4b6204d7e703b447440d076e7b398e277ed6ea11dd53a81b04ab6b3666df7"
+      },
+      {
+        "path": "base/gaze-separated-layers-v8-PREVIEW.blend.part-0006-of-0008",
+        "bytes": 8388608,
+        "sha256": "8da6d6a0ba69be1b7b3b54853bf9ec44e4ebb49a8572e986db83e0a35559be3a"
+      },
+      {
+        "path": "base/gaze-separated-layers-v8-PREVIEW.blend.part-0007-of-0008",
+        "bytes": 8388608,
+        "sha256": "ecd57ce62497a12a7632fb8a83cb82d55064c7647edf9b472556055ce4d88a1e"
+      },
+      {
+        "path": "base/gaze-separated-layers-v8-PREVIEW.blend.part-0008-of-0008",
+        "bytes": 397694,
+        "sha256": "9bce5754d7ad2d97aaed8673c4b30d31da153011692f80a982cf4a86787848ca"
+      }
+    ]
+  },
+  "files": [
+    {
+      "original_path": "gaze-layer-study-20261029/gaze-separated-layers-v1-PREVIEW.blend",
+      "original_bytes": 57115894,
+      "sha256": "23a8675cc455976875205b23389def218a6de9ff0be9e3c1f75d72b9b2ed7e9f",
+      "delta_path": "deltas/gaze-separated-layers-v1-PREVIEW.blend.zst",
+      "delta_bytes": 1238413,
+      "delta_sha256": "b680657ff17abf16b1448a664b52afe1fd335639571e19900a3d7e3cff70c8d0"
+    },
+    {
+      "original_path": "gaze-layer-study-20261029/gaze-separated-layers-v2-PREVIEW.blend",
+      "original_bytes": 57116075,
+      "sha256": "c68d9eb2c38ec682e0c8345f217bf5159315a02218bc59837ef9e72d5359247d",
+      "delta_path": "deltas/gaze-separated-layers-v2-PREVIEW.blend.zst",
+      "delta_bytes": 1238419,
+      "delta_sha256": "ac1b5c04e4e001eea3754d14cbf8a5827c5b9043e43addb906414644c0c850c3"
+    },
+    {
+      "original_path": "gaze-layer-study-20261029/gaze-separated-layers-v3-PREVIEW.blend",
+      "original_bytes": 62040602,
+      "sha256": "2ead4b2eaa5ef696c03f9ae889f6aef1d490b3e3637cf2ddff6f097bfc7e1971",
+      "delta_path": "deltas/gaze-separated-layers-v3-PREVIEW.blend.zst",
+      "delta_bytes": 4774168,
+      "delta_sha256": "126a8ac2926be26b96db3c50dabfbe6be7d91c50961730ccb88eb0cfe1741def"
+    },
+    {
+      "original_path": "gaze-layer-study-20261029/gaze-separated-layers-v4-PREVIEW.blend",
+      "original_bytes": 69748518,
+      "sha256": "009c75dcde6f931394d66cb6df9939a625a96cc128f1f03b922b1092032ed1a5",
+      "delta_path": "deltas/gaze-separated-layers-v4-PREVIEW.blend.zst",
+      "delta_bytes": 10950456,
+      "delta_sha256": "02044106323d866008f4660d2dc458ed48e60e01a8d6cc09d6ee2ed907a4fd67",
+      "delta_parts": [
+        {
+          "path": "deltas/gaze-separated-layers-v4-PREVIEW.blend.zst.part-0001-of-0002",
+          "bytes": 8388608,
+          "sha256": "f15dea4e4b54e0e4b484ba725cd9b1f975be6e47f809241af8bfc5dfbaac41ef"
+        },
+        {
+          "path": "deltas/gaze-separated-layers-v4-PREVIEW.blend.zst.part-0002-of-0002",
+          "bytes": 2561848,
+          "sha256": "22875a3e7aa39bc137704457e4e1c8641c98ab50324a75267ca84d50d7a2d4ac"
+        }
+      ]
+    },
+    {
+      "original_path": "gaze-layer-study-20261029/gaze-separated-layers-v5-PREVIEW.blend",
+      "original_bytes": 68844964,
+      "sha256": "0c3aa2cb2f4b5e3e6a3ede850c29aff206213afb428845011c070d19e97b6c19",
+      "delta_path": "deltas/gaze-separated-layers-v5-PREVIEW.blend.zst",
+      "delta_bytes": 10494753,
+      "delta_sha256": "44fd4a686deb5cca2eb534b13335cc59f5abce1dcb0d1b6504d1485f14a5b74e",
+      "delta_parts": [
+        {
+          "path": "deltas/gaze-separated-layers-v5-PREVIEW.blend.zst.part-0001-of-0002",
+          "bytes": 8388608,
+          "sha256": "02bc5d0fcdfb98a5ab9078ca5468937e19122b7385749c1aa8293d0645b56dbb"
+        },
+        {
+          "path": "deltas/gaze-separated-layers-v5-PREVIEW.blend.zst.part-0002-of-0002",
+          "bytes": 2106145,
+          "sha256": "fea02612510e0181e833787c8597ceb350585107fc53672145be03f4b502272b"
+        }
+      ]
+    },
+    {
+      "original_path": "gaze-layer-study-20261029/gaze-separated-layers-v6-PREVIEW.blend",
+      "original_bytes": 68849705,
+      "sha256": "8a58a9a75aa40ddfe23c19e18096cc8a80fd370f84ad2d3ab04563af4d3f314f",
+      "delta_path": "deltas/gaze-separated-layers-v6-PREVIEW.blend.zst",
+      "delta_bytes": 10491709,
+      "delta_sha256": "50148a444258b71600376938e238fcea055d76ffb1e272a34f75c260fff7ea24",
+      "delta_parts": [
+        {
+          "path": "deltas/gaze-separated-layers-v6-PREVIEW.blend.zst.part-0001-of-0002",
+          "bytes": 8388608,
+          "sha256": "e9c960ba25a651eb1c8efaa0f3fc0dd64219147efe00952b42600d5a112e8495"
+        },
+        {
+          "path": "deltas/gaze-separated-layers-v6-PREVIEW.blend.zst.part-0002-of-0002",
+          "bytes": 2103101,
+          "sha256": "417215bb5ee53b19b285584460c1dbfb9c942900bffb467a514377e1ca518817"
+        }
+      ]
+    },
+    {
+      "original_path": "gaze-layer-study-20261029/gaze-separated-layers-v7-PREVIEW.blend",
+      "original_bytes": 59131174,
+      "sha256": "97aa5d8218dc987759f737019406cf1d74729a7f1e0d084f5696b1bdcd82a2af",
+      "delta_path": "deltas/gaze-separated-layers-v7-PREVIEW.blend.zst",
+      "delta_bytes": 1787274,
+      "delta_sha256": "a0884c5145ac98b3090d2471bca501b615db3db0f0507295cba5abc3415dd6a2"
+    },
+    {
+      "original_path": "gaze-layer-study-20261029/gaze-separated-layers-v8-PREVIEW.blend",
+      "original_bytes": 59117950,
+      "sha256": "efa2d3bdb8b0fbe20c9e05fe13b0c1526c6e3971d5c1553cca2de6d1be1e6c32",
+      "delta_path": "deltas/gaze-separated-layers-v8-PREVIEW.blend.zst",
+      "delta_bytes": 66095,
+      "delta_sha256": "bd5a45635a25f85ad2ce64ad0563ca83af35908d31cf2c141d3c146fc8ad42e6"
+    },
+    {
+      "original_path": "gaze-layer-study-20261029/gaze-v8-current-tail-cloth-HELPER-BOUND.blend",
+      "original_bytes": 60432582,
+      "sha256": "5cdfda186cee49357e40e0b2fc90736161b99dc90b6f3d5d07aed47b4ffbfe55",
+      "delta_path": "deltas/gaze-v8-current-tail-cloth-HELPER-BOUND.blend.zst",
+      "delta_bytes": 20633039,
+      "delta_sha256": "b53c2d4a683b16677eaea56b9ee92848f659f8831aa78d86c6e24f2312ed5b11",
+      "delta_parts": [
+        {
+          "path": "deltas/gaze-v8-current-tail-cloth-HELPER-BOUND.blend.zst.part-0001-of-0003",
+          "bytes": 8388608,
+          "sha256": "35a621a9651959a319a7fcd8285368b2e8e2f0ce91853d6ac1585c3284b97d7d"
+        },
+        {
+          "path": "deltas/gaze-v8-current-tail-cloth-HELPER-BOUND.blend.zst.part-0002-of-0003",
+          "bytes": 8388608,
+          "sha256": "ff3db0a07c5556b67f69c840d48ecfea5a8e3568cbf0c10a6fc031500a1b09af"
+        },
+        {
+          "path": "deltas/gaze-v8-current-tail-cloth-HELPER-BOUND.blend.zst.part-0003-of-0003",
+          "bytes": 3855823,
+          "sha256": "32f81a75a63e9def16dcd23e9f8ee576620a585d4e4443ff3a7ee0a04e4e8438"
+        }
+      ]
+    },
+    {
+      "original_path": "gaze-layer-study-20261029/gaze-v8-current-tail-cloth-HELPER-VERIFIED.blend",
+      "original_bytes": 64548816,
+      "sha256": "878e8b2bd1cd7380b1aa8f24914ecdba190ccc24f8df18883abdd14ba723ad6e",
+      "delta_path": "deltas/gaze-v8-current-tail-cloth-HELPER-VERIFIED.blend.zst",
+      "delta_bytes": 22772255,
+      "delta_sha256": "aef9944da9ee92e0b590c0d1238d3b0cf6f604553f60498042f1f02553f1a146",
+      "delta_parts": [
+        {
+          "path": "deltas/gaze-v8-current-tail-cloth-HELPER-VERIFIED.blend.zst.part-0001-of-0003",
+          "bytes": 8388608,
+          "sha256": "e25a7bc018f1230bc3cf259ee766a01cef5aea6f77eb91a51f14c40f030bf4e2"
+        },
+        {
+          "path": "deltas/gaze-v8-current-tail-cloth-HELPER-VERIFIED.blend.zst.part-0002-of-0003",
+          "bytes": 8388608,
+          "sha256": "1e927b7a87bdf27467eb573bee056ee31e1b007dcfd482412fc2d955a8166deb"
+        },
+        {
+          "path": "deltas/gaze-v8-current-tail-cloth-HELPER-VERIFIED.blend.zst.part-0003-of-0003",
+          "bytes": 5995039,
+          "sha256": "58d5fdb8f6d6408a2556d6af4d4f76829be876422c3247896245a14bd3fc0d76"
+        }
+      ]
+    },
+    {
+      "original_path": "gaze-layer-study-20261029/gaze-v9-current-tail-cloth-HELPER-VERIFIED.blend",
+      "original_bytes": 64556280,
+      "sha256": "fdcdcac0e8456917d2700997820d8cf3e3d289f1bd8498a0846ff32e0c0dc82d",
+      "delta_path": "deltas/gaze-v9-current-tail-cloth-HELPER-VERIFIED.blend.zst",
+      "delta_bytes": 23423436,
+      "delta_sha256": "1e1cc3e931f0780695417ff30326faf393b6ba4298add7f139a8c769f40275cb",
+      "delta_parts": [
+        {
+          "path": "deltas/gaze-v9-current-tail-cloth-HELPER-VERIFIED.blend.zst.part-0001-of-0003",
+          "bytes": 8388608,
+          "sha256": "18a136e671b4043bd9c32e1088a7ad315992a5f34fbad41a7d3ad24a788647d1"
+        },
+        {
+          "path": "deltas/gaze-v9-current-tail-cloth-HELPER-VERIFIED.blend.zst.part-0002-of-0003",
+          "bytes": 8388608,
+          "sha256": "ac4f98b2a357a0317557a09d3d2546615f15648e863c1f6d18894b34ed925151"
+        },
+        {
+          "path": "deltas/gaze-v9-current-tail-cloth-HELPER-VERIFIED.blend.zst.part-0003-of-0003",
+          "bytes": 6646220,
+          "sha256": "a9bcd7107fc6b138c1ec53f597b543ca7941d3512877f6c79747cccfd2dae621"
+        }
+      ]
+    }
+  ],
+  "zstd_version": "*** Zstandard CLI (64-bit) v1.5.7, by Yann Collet ***",
+  "original_bytes": 691502560,
+  "delta_bytes": 107870017,
+  "archive_payload_bytes": 166987967
+}

@@ -1,0 +1,189 @@
+{
+  "format": "whale-zstd-patch-archive-v1",
+  "created_utc": "2026-10-29",
+  "source_project": "whale-model-prep",
+  "scope": "16 superseded head-frill diagnostic models; no active model removed",
+  "base": {
+    "path": "base/shallow-fold-v18-PREVIEW.blend",
+    "original_path": "headfrill-shape-diagnostic-20261029/shallow-fold-v18-PREVIEW.blend",
+    "bytes": 67800836,
+    "sha256": "0ad1ebfc2efc7b43df1322ba845ecf016cf51b557749c0d164cb89cf713881bb",
+    "parts": [
+      {
+        "path": "base/shallow-fold-v18-PREVIEW.blend.part-0001-of-0008",
+        "bytes": 8475105,
+        "sha256": "79bf1ba8f31ed6324f73a134d24876eaa228f693a5e90fb10be0fc9aca08d8ef"
+      },
+      {
+        "path": "base/shallow-fold-v18-PREVIEW.blend.part-0002-of-0008",
+        "bytes": 8475105,
+        "sha256": "da216b56af336412a832a955609e76e29a00affe60384c8eda52168e69bd34e0"
+      },
+      {
+        "path": "base/shallow-fold-v18-PREVIEW.blend.part-0003-of-0008",
+        "bytes": 8475105,
+        "sha256": "a147e3d86c17e029e42b92f3b4ad350dd0fcda93584fd965b3e7014f79d2ec8e"
+      },
+      {
+        "path": "base/shallow-fold-v18-PREVIEW.blend.part-0004-of-0008",
+        "bytes": 8475105,
+        "sha256": "d50fe0ae2bfcf30eeced67894197098a32aef299104015ed0dcc0f5aa4bda89a"
+      },
+      {
+        "path": "base/shallow-fold-v18-PREVIEW.blend.part-0005-of-0008",
+        "bytes": 8475105,
+        "sha256": "01c6808d171df01325e42794e6adf152ca18b0841c88c84956ff024d78c6904f"
+      },
+      {
+        "path": "base/shallow-fold-v18-PREVIEW.blend.part-0006-of-0008",
+        "bytes": 8475105,
+        "sha256": "991a211c29e5ac8ee0b2f3fe77ebb480ac2e7bdca56dd8700eef45e51958146f"
+      },
+      {
+        "path": "base/shallow-fold-v18-PREVIEW.blend.part-0007-of-0008",
+        "bytes": 8475105,
+        "sha256": "e8c04752f2978091687c07d0951de60f87b7d8e467d5e9f10619a5c8bca42772"
+      },
+      {
+        "path": "base/shallow-fold-v18-PREVIEW.blend.part-0008-of-0008",
+        "bytes": 8475101,
+        "sha256": "556171d25d0bb92209ab3921eec0811b672aba7f03280821b1135174ef9a369f"
+      }
+    ],
+    "storage_note": "The complete base is stored as eight ordered byte-concatenation parts to fit the transport request limit. Concatenate in manifest order; the reconstructed base has the original SHA-256."
+  },
+  "files": [
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/frill-gap-v1-PREVIEW.blend",
+      "original_bytes": 67454445,
+      "sha256": "e6247898c548aa1e41a052b88d2c080b44661247444fd5cffc080843cf556f07",
+      "delta_path": "deltas/frill-gap-v1-PREVIEW.blend.zst",
+      "delta_bytes": 7876261,
+      "delta_sha256": "37bee63a54320e7018f53a036aa73bd05e6a38e7932f971e36b1c51700a83991"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/frill-gap-v2-PREVIEW.blend",
+      "original_bytes": 67453075,
+      "sha256": "34a145aee632537d342d4f4256dde2534f464700881926db8755167998939017",
+      "delta_path": "deltas/frill-gap-v2-PREVIEW.blend.zst",
+      "delta_bytes": 7880114,
+      "delta_sha256": "d9340a0d6a46dc8fb22439b71d4d35da8c029b09edb7c8288e7f615cb1ceb9f6"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/frill-retopo-v3-PREVIEW.blend",
+      "original_bytes": 67560081,
+      "sha256": "5b8de462f40024497041861e066520ea7de64f124f4d714c575854b6838de223",
+      "delta_path": "deltas/frill-retopo-v3-PREVIEW.blend.zst",
+      "delta_bytes": 7658784,
+      "delta_sha256": "90072b8505949f0fd8b55e6717fbc11b7237c55dc49f866032259dcf328ead84"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/main0-fold-v4-PREVIEW.blend",
+      "original_bytes": 67655735,
+      "sha256": "d40c832a838757c7bc4c4654ef0598c0433005e18b6a9b1c0d5f727936f88a75",
+      "delta_path": "deltas/main0-fold-v4-PREVIEW.blend.zst",
+      "delta_bytes": 6952130,
+      "delta_sha256": "c9d2a9719a493559782fcbff9039838d8b049e4cc647a79805b05981745bce8d"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/main0-fold-v5-PREVIEW.blend",
+      "original_bytes": 67655624,
+      "sha256": "da4aeee79362ea2b2111dab8bb78306947c0dc8be332db1dcafa35c25580e5ce",
+      "delta_path": "deltas/main0-fold-v5-PREVIEW.blend.zst",
+      "delta_bytes": 6952827,
+      "delta_sha256": "5f025f2a371e3aed1fced3890bacc6475c3e0ab8e46e0134813359033f199d02"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/main0-fold-v6-PREVIEW.blend",
+      "original_bytes": 67655722,
+      "sha256": "8ddf327be58257fb1c3b84777d009a2edfd9d5021d84e35582b3a6c953017014",
+      "delta_path": "deltas/main0-fold-v6-PREVIEW.blend.zst",
+      "delta_bytes": 6952303,
+      "delta_sha256": "5162c447331f62a68970f88c001256d14aef196755b0783143204462513bb79a"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/main0-fold-v7-PREVIEW.blend",
+      "original_bytes": 67655452,
+      "sha256": "7a5c6269f13a4fb281747c1bdc1e4ca15c61a8906617b7beda2dafef9ca7335f",
+      "delta_path": "deltas/main0-fold-v7-PREVIEW.blend.zst",
+      "delta_bytes": 6953551,
+      "delta_sha256": "2b89f81b7417514cad2b19bba5b7dcc908afe928dc8dbbdf7770033103a6392f"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/shallow-fold-v19-PREVIEW.blend",
+      "original_bytes": 67800878,
+      "sha256": "d91e7797dc994657fdc153f1a6ac882b77e17aabad7c16d563553c7aa46a9ad4",
+      "delta_path": "deltas/shallow-fold-v19-PREVIEW.blend.zst",
+      "delta_bytes": 177726,
+      "delta_sha256": "5e54f7ac6915e069a16e89e81ae479e838125502567d82a812e94fa1741f40a5"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/thin-cloth-v10-PREVIEW.blend",
+      "original_bytes": 67937347,
+      "sha256": "70a20d2efe961b53183e5f6b05ef778bea7c1fe1cb962e0ca54d52be249989b5",
+      "delta_path": "deltas/thin-cloth-v10-PREVIEW.blend.zst",
+      "delta_bytes": 6825209,
+      "delta_sha256": "e6516b28870843571bd42d38027ca97180396348c89d182b4eb23cabeaecde68"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/thin-cloth-v11-PREVIEW.blend",
+      "original_bytes": 67978370,
+      "sha256": "000e82fdeb83506d749ce29841dba99d36f276710f995bd6673a98c7046fd9e7",
+      "delta_path": "deltas/thin-cloth-v11-PREVIEW.blend.zst",
+      "delta_bytes": 6850940,
+      "delta_sha256": "f4db4b4b41e886e115fd875ed52ab4a728e9752a1e82582a8d302b7735209b1d"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/thin-cloth-v12-PREVIEW.blend",
+      "original_bytes": 67828390,
+      "sha256": "db2ec28d1fd08c04f2db8bb3fb8af635ab7a3339f4fb1d7f189dd2c0c0409bf9",
+      "delta_path": "deltas/thin-cloth-v12-PREVIEW.blend.zst",
+      "delta_bytes": 1693623,
+      "delta_sha256": "ffdaae3d47f1df407dba71c0f993771e43e982e51eb064195b5abed5d5975f79"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/thin-cloth-v13-PREVIEW.blend",
+      "original_bytes": 67804678,
+      "sha256": "4d5cc9abb3591c0e1db8e36dd1798995e493339acbe9e3fb7a91c6348615c228",
+      "delta_path": "deltas/thin-cloth-v13-PREVIEW.blend.zst",
+      "delta_bytes": 1549780,
+      "delta_sha256": "3ebde01b1a94d33db62986388455089812f336966da7f6a9d1541aeeb42787e6"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/thin-cloth-v14-PREVIEW.blend",
+      "original_bytes": 67803390,
+      "sha256": "1e25ada5ab62197917f3400d5607d52a977a892fe37d29d91b91cf2237c5bab4",
+      "delta_path": "deltas/thin-cloth-v14-PREVIEW.blend.zst",
+      "delta_bytes": 1645189,
+      "delta_sha256": "72829781573fc88a53704ab6ea0bc4d4f704ee1140899113e0132db9958d7ec8"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/thin-cloth-v16-PREVIEW.blend",
+      "original_bytes": 67801668,
+      "sha256": "ea33e3269df640a15b81d1f4193cdae0aa97d10205d5291e53c45324ab3512c5",
+      "delta_path": "deltas/thin-cloth-v16-PREVIEW.blend.zst",
+      "delta_bytes": 1132534,
+      "delta_sha256": "6147e5d57c16879e769e6f2b208ff1556adcb7d2c4462d5bc1c26f30b42e45d5"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/thin-cloth-v8-PREVIEW.blend",
+      "original_bytes": 67812819,
+      "sha256": "398b4feb85fd1af4777e4b63e3a3da8bd3df0d399ca3eb8fb328ef6dec2a217f",
+      "delta_path": "deltas/thin-cloth-v8-PREVIEW.blend.zst",
+      "delta_bytes": 2320109,
+      "delta_sha256": "05310af074c203685cbb51e2a25cf9e8772f40130668201ae0ac100a483e64fd"
+    },
+    {
+      "original_path": "headfrill-shape-diagnostic-20261029/thin-cloth-v9-PREVIEW.blend",
+      "original_bytes": 67812627,
+      "sha256": "b44d66dab998b59436360c70e52d46d06ea14b4e8e31340fe41657b0e14649f9",
+      "delta_path": "deltas/thin-cloth-v9-PREVIEW.blend.zst",
+      "delta_bytes": 2300095,
+      "delta_sha256": "31b16cecdc50970d38fcf0937275953cc86e8a4c402359ff31ee6be0e904bf1b"
+    }
+  ],
+  "zstd_version": "*** Zstandard CLI (64-bit) v1.5.7, by Yann Collet ***",
+  "original_bytes": 1083670301,
+  "delta_bytes": 75721175,
+  "archive_payload_bytes": 143522011
+}

@@ -1,0 +1,224 @@
+{
+  "format": "whale-zstd-patch-archive-v1",
+  "source_project": "whale-model-prep",
+  "batch": "old-lids-20261029",
+  "title": "\u65e9\u671f\u773c\u7751\u4e0e\u89c6\u7ebf\u5b9e\u9a8c\u5f52\u6863",
+  "base": {
+    "path": "base/true-lids-prototype-v15.blend",
+    "original_path": "true-eyelids-20261029/true-lids-prototype-v15.blend",
+    "bytes": 31221959,
+    "sha256": "f63e05b4bd54490fcd1a9de429cca5ffc8210864bb83893500495af494f6841e",
+    "parts": [
+      {
+        "path": "base/true-lids-prototype-v15.blend.part-0001-of-0004",
+        "bytes": 8388608,
+        "sha256": "ec0c3db4eb7bb1a3e6c22d94ef390bc8c9c2719c99ac170c5be7ce4615024cc0"
+      },
+      {
+        "path": "base/true-lids-prototype-v15.blend.part-0002-of-0004",
+        "bytes": 8388608,
+        "sha256": "ce6cc00ff89203d773e5789b95b2b4b14ec7f57f690fdfbf54c8ae4fd0d52438"
+      },
+      {
+        "path": "base/true-lids-prototype-v15.blend.part-0003-of-0004",
+        "bytes": 8388608,
+        "sha256": "db7a73f0562e4b5f34746ad64cfbd1f1b19bb59562cd6df6246e959af6f57ea6"
+      },
+      {
+        "path": "base/true-lids-prototype-v15.blend.part-0004-of-0004",
+        "bytes": 6056135,
+        "sha256": "0584d60d798711b8a620a0a39873a1586067c2bc2ada73277af48a0b1f346878"
+      }
+    ]
+  },
+  "files": [
+    {
+      "original_path": "true-eyelids-20261029/gaze-atlas-v18.blend",
+      "original_bytes": 35061967,
+      "sha256": "306eb6d103af3aba31bee87afaf3d430e2b82463ff335074a6df19b8068b3298",
+      "delta_path": "deltas/gaze-atlas-v18.blend.zst",
+      "delta_bytes": 2995159,
+      "delta_sha256": "16f9517505910dae22b83b95c6ca047e34549723a3481f2109919778fb723fb9"
+    },
+    {
+      "original_path": "true-eyelids-20261029/gaze-atlas-v20.blend",
+      "original_bytes": 35035016,
+      "sha256": "24e2f39431290ba187bcc02199d53c348dc7706dbf6b3e69cfcf11a804dde352",
+      "delta_path": "deltas/gaze-atlas-v20.blend.zst",
+      "delta_bytes": 3853568,
+      "delta_sha256": "96e64b4ce1f0f6e6e6a27f52a46f45054627aea0f31c9e3485a3173729675c26"
+    },
+    {
+      "original_path": "true-eyelids-20261029/gaze-atlas-v21.blend",
+      "original_bytes": 35027127,
+      "sha256": "0fb7b119adf08c4cec93644d1785a2909d1087d395b1913f67381271b722070f",
+      "delta_path": "deltas/gaze-atlas-v21.blend.zst",
+      "delta_bytes": 3880210,
+      "delta_sha256": "dbb5c161d0c94e710e961aa692ba71ee55ee0b623a71d853bce98eea273750d3"
+    },
+    {
+      "original_path": "true-eyelids-20261029/gaze-atlas-v22.blend",
+      "original_bytes": 35028759,
+      "sha256": "700047986bbd1822236de725dbff4357219f209337abbf3f99b917f261e38a24",
+      "delta_path": "deltas/gaze-atlas-v22.blend.zst",
+      "delta_bytes": 3918228,
+      "delta_sha256": "33a4b3969be09b7bddc8d279de79d13787ead66cfdab194fe75bd15ab2e4707e"
+    },
+    {
+      "original_path": "true-eyelids-20261029/gaze-boundary-depth-v23.blend",
+      "original_bytes": 35124092,
+      "sha256": "9207426ccf44788c7d1836bffe4a2c94f065b398e9d51e524433fd56e7ca5449",
+      "delta_path": "deltas/gaze-boundary-depth-v23.blend.zst",
+      "delta_bytes": 5914993,
+      "delta_sha256": "a0fcd5738a86d04c1b34f132546450af977cd45237d9c6e96bf38b9a7dd37dc9"
+    },
+    {
+      "original_path": "true-eyelids-20261029/gaze-boundary-v16.blend",
+      "original_bytes": 31221361,
+      "sha256": "9179f59a55cb0aba4a3049ff44e3ed6924f82208a61065d9b8b6c3f987519a50",
+      "delta_path": "deltas/gaze-boundary-v16.blend.zst",
+      "delta_bytes": 83328,
+      "delta_sha256": "b03826525d65d1df171f748a7ff73a69bbf18ddee4441b3131bdd811ac70ce7f"
+    },
+    {
+      "original_path": "true-eyelids-20261029/gaze-frontfan-v19.blend",
+      "original_bytes": 31229298,
+      "sha256": "5599188bdf86261898ef2b536497242b47d35c906539ce4c85a0c4dc90b90fba",
+      "delta_path": "deltas/gaze-frontfan-v19.blend.zst",
+      "delta_bytes": 1306517,
+      "delta_sha256": "64d1696e1339f35dee042a7165e950c96099a682397d7b6ae75f09bd64f0fc9c"
+    },
+    {
+      "original_path": "true-eyelids-20261029/gaze-iris-only-v24.blend",
+      "original_bytes": 35141341,
+      "sha256": "575ac76aebe585ea6c36ef58f9bea0ebf056ebf30e155aa45db2757cb363860f",
+      "delta_path": "deltas/gaze-iris-only-v24.blend.zst",
+      "delta_bytes": 5604356,
+      "delta_sha256": "ec3f62e4fa61381cb940d237051946a741910a2ee8230f5032cf899b742fc602"
+    },
+    {
+      "original_path": "true-eyelids-20261029/gaze-rigid-v17.blend",
+      "original_bytes": 31230761,
+      "sha256": "3ccc5d3e1d800aa058ee02ac0dd825dc630a36e690b14d43f681ecdd0d4ed8c7",
+      "delta_path": "deltas/gaze-rigid-v17.blend.zst",
+      "delta_bytes": 132533,
+      "delta_sha256": "808b731df1ed4fabf0bd25b5b02ccd0adfaea9ccedc3ea67a427a96f491256fd"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v1.blend",
+      "original_bytes": 27057580,
+      "sha256": "67cbbe560596094b1017968870d2795e77616f9d97a7acc6bb4b73c01f618052",
+      "delta_path": "deltas/true-lids-prototype-v1.blend.zst",
+      "delta_bytes": 1728352,
+      "delta_sha256": "56ebb4a4640b4112766ec6cd528de04dbe9f23f4c95ab25ca0b4d853d58a34e0"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v10.blend",
+      "original_bytes": 31255801,
+      "sha256": "c013bd1572688908e919b9e9c08647aecf157be1f749dad3165c5db44f5bef56",
+      "delta_path": "deltas/true-lids-prototype-v10.blend.zst",
+      "delta_bytes": 1388072,
+      "delta_sha256": "37c1eaa652e1ed0c0c05a9c7c8f6b740ecdc282f2de2abb28fe1e888cd600a16"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v11.blend",
+      "original_bytes": 31257620,
+      "sha256": "5343895af2a0327a3e16513f3229ac13e5fc8b0fc46a1ab3d0330aaa97b0f2e5",
+      "delta_path": "deltas/true-lids-prototype-v11.blend.zst",
+      "delta_bytes": 1181396,
+      "delta_sha256": "52d34219f95939a41bf7c49cd22c602965c931f782ab1192bdd76fac3359a2c5"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v12.blend",
+      "original_bytes": 31257763,
+      "sha256": "f87bc76491925c8a2ed2b7de438124df3fe70071ecf7b0f272b4d25050b5e01c",
+      "delta_path": "deltas/true-lids-prototype-v12.blend.zst",
+      "delta_bytes": 934063,
+      "delta_sha256": "8b23223f8b55011a9f27b7a06828937eed0e6c0c25d63ad155fa6bbdf26555bf"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v13.blend",
+      "original_bytes": 31257829,
+      "sha256": "ae252cfbebda14264690dff7b3632e1e433f0f6d03fdb745e75fa574fc18b6b9",
+      "delta_path": "deltas/true-lids-prototype-v13.blend.zst",
+      "delta_bytes": 918447,
+      "delta_sha256": "4d02ec49fe301550159bbd271310c8ffe523b1dc62b82dac5ed9efbd78837f39"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v14.blend",
+      "original_bytes": 31235964,
+      "sha256": "f130442cfcb0d0addf2cac83f075fafdf76fe5b037657dfaa15a2186cc5b5574",
+      "delta_path": "deltas/true-lids-prototype-v14.blend.zst",
+      "delta_bytes": 153212,
+      "delta_sha256": "514f73e9aad2d9e13bd61555fdf751b8bac21d13b5fd6e10818db31a537a0e60"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v2.blend",
+      "original_bytes": 27063313,
+      "sha256": "3e86bbaea835b6903602fe6534fb20db1fd8a02021ef99e5034cb81922fe2cbb",
+      "delta_path": "deltas/true-lids-prototype-v2.blend.zst",
+      "delta_bytes": 1714966,
+      "delta_sha256": "edfef52ddd20355b8a23d82f5c7e4db85d4f7970d60fe289e4aae17f4db84bab"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v3.blend",
+      "original_bytes": 27079064,
+      "sha256": "3bc213e58972517b41c70270a13af53c4bb36881e8d6e11753a8443329254a85",
+      "delta_path": "deltas/true-lids-prototype-v3.blend.zst",
+      "delta_bytes": 1753844,
+      "delta_sha256": "0ebee06619e8100876f1360dd44a49814d1872624df4aa1a227c618ad6db6246"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v4.blend",
+      "original_bytes": 27080678,
+      "sha256": "a7505d21b72eef3cb899d0974f372c9f118229f19fe7ca343a6f3acd85bcdc10",
+      "delta_path": "deltas/true-lids-prototype-v4.blend.zst",
+      "delta_bytes": 1618410,
+      "delta_sha256": "c7da66de8d0e9644c766240bcd449f397d5ada38d18472f2dcfb60200ae8abed"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v5.blend",
+      "original_bytes": 27075247,
+      "sha256": "56a974f98b0bc48a3c5d8823507fa6c8bb4698dd682132b59ec485b8a8c4fa7d",
+      "delta_path": "deltas/true-lids-prototype-v5.blend.zst",
+      "delta_bytes": 1595508,
+      "delta_sha256": "73e321729c86aa190fb29b81048b94bf5cfb89d562a96e304c99c50908efce95"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v6.blend",
+      "original_bytes": 27075331,
+      "sha256": "38d00fb3e39fff0300997c419a7737211948365e79a0fc05d5f064451886f4cd",
+      "delta_path": "deltas/true-lids-prototype-v6.blend.zst",
+      "delta_bytes": 1595325,
+      "delta_sha256": "4836cafe905f8fd34d1cfd56e15a9d054168b5d783a9599f98320b4bc9ff1c11"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v7.blend",
+      "original_bytes": 27075313,
+      "sha256": "61b8241baa1e6e34b2b5183175d6d120b330fb9adf6307356116e6de79763df1",
+      "delta_path": "deltas/true-lids-prototype-v7.blend.zst",
+      "delta_bytes": 1587619,
+      "delta_sha256": "24e7c862f0bbde988f3567cc1fb5bfccd23413c190fc25ebba6e0d04ef1daf39"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v8.blend",
+      "original_bytes": 27075604,
+      "sha256": "136c4c31ae2454131f0ae51b799b917eba8c7bd1706d72f8809116d00c256c5b",
+      "delta_path": "deltas/true-lids-prototype-v8.blend.zst",
+      "delta_bytes": 1587396,
+      "delta_sha256": "dd41b2bf7ace6b7a1e1eab91c438eaf0d7f6470514f80f8e15a6bd34dc93b5cb"
+    },
+    {
+      "original_path": "true-eyelids-20261029/true-lids-prototype-v9.blend",
+      "original_bytes": 31255678,
+      "sha256": "122cf364140cc811e86b07aeceaf3cb6b888374e03b58b61acc0ea70af022a44",
+      "delta_path": "deltas/true-lids-prototype-v9.blend.zst",
+      "delta_bytes": 1384450,
+      "delta_sha256": "6792dd8cf6ed0618d4962db6652db62c1ac70f3d52310cf2067896d5119912b9"
+    }
+  ],
+  "zstd_version": "*** Zstandard CLI (64-bit) v1.5.7, by Yann Collet ***",
+  "original_bytes": 708202507,
+  "delta_bytes": 46829952,
+  "archive_payload_bytes": 78051911
+}

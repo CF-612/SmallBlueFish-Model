@@ -2,6 +2,21 @@
 
 小肥鱼模型的制作、修复与版本归档。项目仍在制作中，这里的旧版工程不是最终发布模型。
 
+## 原型下载
+
+当前试验版：[v0.1.0-alpha.2 发布页](https://github.com/CF-612/SmallBlueFish-Model/releases/tag/v0.1.0-alpha.2)。
+
+- [下载完整原型包（ZIP，约 199 MiB）](https://github.com/CF-612/SmallBlueFish-Model/releases/download/v0.1.0-alpha.2/SmallBlueFish-v0.1.0-alpha.2-prototype.zip)
+- 解压后使用 `model/SmallBlueFish-v0.1.0-alpha.2.vrm`，格式为 VRM 1.0。使用说明和已知限制见包内文档。
+- 请下载上述命名原型包；GitHub 自动生成的 Source code ZIP 是仓库快照。
+- 此版本用于原型测试，仍有待修细节；后续修改不会自动更新已下载文件。
+
+原型 ZIP 的 SHA-256：
+
+```text
+0c481fc0d57bc8a1634138c6b260603dd6f91511139391ced9fc78e2aab4663c
+```
+
 ## 当前进度
 
 已归档 **75 个旧版实验工程**：原文件合计约 **4.12 GB**，含完整恢复基准的无损归档约 **652 MB**。每批都已从 GitHub 独立下载，恢复后逐一核对原始 SHA-256。
